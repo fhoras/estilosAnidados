@@ -1,15 +1,15 @@
 body {
   font-family: sans-serif;
 }
-body h1{
- color: #2B0448; 
- font-family: 'Courier New', Courier, monospace;
- text-align: center;
- font-size: 42px;
+body h1 {
+  color: #2b0448;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-size: 42px;
 }
 .otroContenedor {
   background-color: rgb(174, 127, 218);
-  width: auto: 
+  width: auto;
   color: white;
   padding: 5px;
 }
@@ -31,33 +31,29 @@ body h1{
   flex-wrap: wrap;
   text-align: center;
   justify-content: center;
-
 }
 .otroContenedor p {
   text-align: justify;
   color: white;
 }
-.otroContenedor .otroTexto{
+.otroContenedor .otroTexto {
   text-align: justify;
-  color: #C70A80;
+  color: #c70a80;
   font-style: italic;
 }
 .containerFlex .div1 {
   background-color: #37e2d5;
-  border: 2px solid #1C7C74;
-
+  border: 2px solid #1c7c74;
 }
 .containerFlex .div2 {
   background-color: #590696;
-  border: 2px solid #2B0448;
-
+  border: 2px solid #2b0448;
 }
 .containerFlex .div3 {
   background-color: #c70a80;
-  border: 2px solid #73084B;
-
+  border: 2px solid #73084b;
 }
 .containerFlex .div4 {
   background-color: #fbcb0a;
-  border: 2px solid #E4B00D;
+  border: 2px solid #e4b00d;
 }
